@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/yudegaki/test-github-actions/user"
+	"github.com/yudegaki/test-github-actions/app/user"
 )
 
 func main() {
